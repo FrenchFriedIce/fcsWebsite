@@ -26,10 +26,10 @@ font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 40px;
 }
 .navbar{
-    width: 90%;
-    margin: auto;
-    padding: 35px 0;
-    display: flex;
+    width: 85%;
+    margin: 0;
+    padding: 35px 35px;
+    display: inline-flex;
     align-items: center;
     justify-content: space-between;
 }
@@ -40,7 +40,6 @@ font-family: Georgia, 'Times New Roman', Times, serif;
 .navbar ul li{
     list-style: none;
     display: inline-block;
-    margin: 0 20px;
     position: relative;
     color: #fff;
 }
